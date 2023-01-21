@@ -1,4 +1,5 @@
 # Rock EDM Festival Proyecto
+![](https://img.shields.io/static/v1?label=%3CLABEL%3E&message=%3CMESSAGE%3E&color=%3CCOLOR%3E&style=plastic)
 Proyecto pagina web sobre festival de rock, especial para la publicacion de eventos con horarios, galeria de imagenes de los grupos que se vana presentar y los valores de los boletos y informacion de los eventos.
 # Indice
 * [Setting up!](#contacto)
