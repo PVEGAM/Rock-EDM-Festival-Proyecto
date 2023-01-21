@@ -23,6 +23,6 @@ Proyecto pagina web sobre festival de rock, especial para la publicacion de even
 # Autores
 * **Patricio Vega** - *Trabajo inicial y final* - [PVEGAM](https://github.com/PVEGAM)
 # Contacto
-El codigo del proyecto esta en privado, si estas interesado en el codigo puedes contactarnos con los siquientes datos. 
+El codigo del proyecto esta en privado, si estas interesado en el codigo puedes contactarnos con los siquientes datos 
 * WhatsApp: [Enviar mensaje](https://api.whatsapp.com/send?phone=56950953133)
 * Correo: pvegam17@gmail.com
