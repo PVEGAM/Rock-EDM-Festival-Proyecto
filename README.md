@@ -6,3 +6,5 @@ Proyecto pagina web sobre festival de rock, especial para la publicacion de even
 * Line Up
 * Gleria
 * Boletos
+## Autores
+* **Patricio Vega** - *Trabajo inicial y final* - [PVEGAM](https://github.com/PVEGAM)
