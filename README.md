@@ -22,3 +22,4 @@ Proyecto pagina web sobre festival de rock, especial para la publicacion de even
 El codigo del proyecto esta en privado, 
 * WhatsApp: [Enviar mensaje](https://api.whatsapp.com/send?phone=56950953133)
 * Correo: pvegam17@gmail.com
+![Aquí la descripción de la imagen por si no carga](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/gmail.png)
