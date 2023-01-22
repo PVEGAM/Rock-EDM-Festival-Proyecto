@@ -5,11 +5,17 @@ Proyecto pagina web sobre festival de rock, especial para la publicacion de even
 # Indice
 * [Imagen GIF del Proyecto](#imagen-gif-del-proyecto)
 * [Contenido pagina web](#contenido-pagina-web)
+* [Secciones de contenido](#secciones-de-contenido)
 * [Construido con](#construido-con)
 * [Autores](#autores)
 * [Contacto](#contacto)
 # Imagen GIF del Proyecto
 ![Aquí la descripción de la imagen por si no carga](https://github.com/sith2000/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-20.gif)
+# Secciones de contenido
+![Aquí la descripción de la imagen por si no carga](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s1.png)
+![Aquí la descripción de la imagen por si no carga](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s2.png)
+![Aquí la descripción de la imagen por si no carga](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s3.png)
+![Aquí la descripción de la imagen por si no carga](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s4.png)
 # Contenido pagina web
 * Line Up
 * Galeria
