@@ -4,6 +4,7 @@
 Proyecto pagina web sobre festival de rock, especial para la publicacion de eventos con horarios, galeria de imagenes de los grupos que se vana presentar y los valores de los boletos y informacion de los eventos.
 # Indice
 * [Imagen GIF del Proyecto](#imagen-gif-del-proyecto)
+  - [Autores](#autores)
 * [Contenido pagina web](#contenido-pagina-web)
 * [Secciones de contenido](#secciones-de-contenido)
 * [Construido con](#construido-con)
