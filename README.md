@@ -3,28 +3,14 @@
 
 Proyecto pagina web sobre festival de rock, especial para la publicacion de eventos con horarios, galeria de imagenes de los grupos que se vana presentar y los valores de los boletos y informacion de los eventos.
 # Indice
-* [Imagen GIF del Proyecto](#imagen-gif-del-proyecto)
 * [Secciones de contenido](#secciones-de-contenido)
-  * [Menu](#menu)
-  * [Line up](#line-up)
-  * [Galeria](#galeria)
-  * [Boletos](#boletos)
 * [Contenido pagina web](#contenido-pagina-web)
 * [Secciones de contenido](#secciones-de-contenido)
 * [Construido con](#construido-con)
 * [Autores](#autores)
 * [Contacto](#contacto)
-# Imagen GIF del Proyecto
-![](https://github.com/sith2000/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-20.gif)
 # Secciones de contenido
-## Menu
-![](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s1.png)
-## Line up
-![](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s5.png)
-## Galeria
-![](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s3.png)
-## Boletos
-![](https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-22%20(1)%20s4.png)
+![](https://github.com/sith2000/Rock-EDM-Festival-Proyecto/blob/main/chrome-capture-2023-0-20.gif)
 # Contenido pagina web
 * Line Up
 * Galeria
