@@ -1,5 +1,5 @@
 # Rock EDM Festival Proyecto
-![](https://img.shields.io/static/v1?label=ESTATUS&message=FINALIZADO&color=green) ![](https://shields.io/badge/-HTML-orange) ![](https://shields.io/badge/-CSS-blue) ![](https://shields.io/badge/-JAVASCRIPT-yellow) ![](https://shields.io/badge/-NODEJS-green) ![](https://shields.io/badge/-GULP-red)
+![estatus](https://img.shields.io/static/v1?style=for-the-badge&label=ESTATUS&message=FINALIZADO&color=green) ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://shields.io/badge/-JAVASCRIPT-yellow) ![](https://shields.io/badge/-NODEJS-green) ![](https://shields.io/badge/-GULP-red)
 
 Proyecto pagina web sobre festival de rock, especial para la publicacion de eventos con horarios, galeria de imagenes de los grupos que se vana presentar y los valores de los boletos y informacion de los eventos.
 # Indice
@@ -23,6 +23,4 @@ Proyecto pagina web sobre festival de rock, especial para la publicacion de even
 # Autores
 * **Patricio Vega** - *Trabajo inicial y final* - [PVEGAM](https://github.com/PVEGAM)
 # Contacto
-El codigo del proyecto esta en privado, si estas interesado en el codigo puedes contactarnos con los siquientes datos 
-* WhatsApp: [Enviar mensaje](https://api.whatsapp.com/send?phone=56950953133)
-* Correo: pvegam17@gmail.com
+El codigo del proyecto esta en privado, si estas interesado en el codigo puedes visitar mi perfil github aqui - [PVEGAM](https://github.com/PVEGAM)
